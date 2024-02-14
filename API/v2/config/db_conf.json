@@ -1,7 +1,7 @@
 {
     "host":"localhost",
     "port": 3306,
-    "user":"",
+    "user":"root",
     "password" : "",
-    "db_name" : "DwesBd04"
+    "db_name" : "idarraga_arino_karmel_dwes04"
 }
